@@ -1,0 +1,8 @@
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\obj\Debug\PartOne.csproj.AssemblyReference.cache
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\obj\Debug\PartOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\obj\Debug\PartOne.csproj.CoreCompileInputs.cache
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\bin\Debug\PartOne.exe.config
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\bin\Debug\PartOne.exe
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\bin\Debug\PartOne.pdb
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\obj\Debug\PartOne.exe
+C:\Users\27614\Documents\Prog Assignment 2022\PartOne\PartOne\obj\Debug\PartOne.pdb
