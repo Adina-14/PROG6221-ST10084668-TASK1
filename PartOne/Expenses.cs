@@ -8,23 +8,29 @@ namespace PartOne
 {
      abstract class Expenses
     {
-       //variables
-       protected double [] expense = new double [5];
-       protected double totalExp = 0;
+        //variables
+        protected Dictionary<string, double> exp = new Dictionary<string, double>();
+        protected double totalExp = 0;
 
 
-        public void SetExp(double[] userExpense)
+        public void SetExp(Dictionary<string, double> e)
         {
-            expense = userExpense;
+
+            exp = e;
         }
 
         public double GetTotalExp()
         {
-            totalExp = expense.Sum();
+            //calc the sum of all expenses
+            foreach (double value in exp.Values)
+            {
+                totalExp += value;
+            }
+            //return sum
             return totalExp;
         }
 
-        //abstract class
+        //abstract method
         public abstract void avaliableMoney(double grossIncome);
     }
 }
